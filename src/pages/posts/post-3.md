@@ -1,6 +1,7 @@
 ---
-title: Mi tercera publicación en el blog
+layout: ../../layouts/MarkdownPostLayout.astro
 author: Alumno de Astro
+title: "Post 3"
 description: "Tuve algunos problemas, pero preguntar en la comunidad me ayudó mucho."
 image:
   url: "https://docs.astro.build/assets/rays.webp"
